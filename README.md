@@ -1,3 +1,20 @@
+# TEST FOR umberfirm.com
+
+test.error.com.ua/admin/address - админка 
+
+test.error.com.ua - карта с фильтром
+
+Import CSV
+test.error.com.ua/admin/address/import
+
+Вимоги до CSV файлу 
+
+Адреса;R,G,B
+
+Наприклад:
+
+Київ Саксаганського 15;88,0,64
+
 Yii 2 Advanced Project Template
 ===============================
 
